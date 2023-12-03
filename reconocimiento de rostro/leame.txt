@@ -1,0 +1,5 @@
+por motivos de espacio no se subio el ejemplo 
+ primero se reecorre la capa de entrada 
+ donde colocamos el nombre y la ruta (de video , camara (0)depende de cuantas camara son:)
+ luego ejecutamos la capa oculta para el entranamento ahi se va tardar su tiempo
+ luego vamos a reconocer rostro 
